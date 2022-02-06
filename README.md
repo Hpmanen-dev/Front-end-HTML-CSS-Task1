@@ -1,4 +1,4 @@
-# Front-end-HTML-CSS-Task1
+# Front-end-HTML-CSS-Task1 Hampus Sjöstedt Nilsson
 Upload for front-end task.
 
 # How to use
